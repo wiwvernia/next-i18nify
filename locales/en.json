@@ -1,4 +1,5 @@
 {
   "hello": "Hello",
-  "greeting": "Nice to meet you"
+  "greeting": "Nice to meet you",
+  "name": "My name is %{name}"
 }
