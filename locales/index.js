@@ -6,7 +6,7 @@ import { jp } from "./jp.json"
 I18n.setTranslations({
     th,
     en,
-    th,
+    jp,
 });
 
 // เราจะกำหนดภาษาเริ่มต้นของเราเป็นภาษาไทยนะครับ
